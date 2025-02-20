@@ -4,9 +4,7 @@ I'm a **cognitive psychologist** with a passion for understanding how we learn a
 
 ### What You'll Find Here 🧠📊  
 💡 Some recent (and not-so-recent!) research projects
-
 📊 Examples of data visualization & statistical modelling  
-
 🌱 The template I used to generate a custom resume using Rmarkdown
 
 Feel free to check out my work or reach out—I'm always up for a good discussion about brains, data, and cool research!  
