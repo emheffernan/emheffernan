@@ -7,6 +7,9 @@ I'm a **cognitive psychologist** with a passion for understanding how we learn a
 📊 Examples of data visualization & statistical modelling  
 🌱 The template I used to generate a custom resume using Rmarkdown
 
+### Beyond Research 🌿🏕️  
+When I’m not analyzing data, you’ll probably find me **backcountry camping, hiking, or cycling**—I love exploring the outdoors and getting away from all things digital.   
+
 Feel free to check out my work or reach out—I'm always up for a good discussion about brains, data, and cool research!  
 
 <!--
