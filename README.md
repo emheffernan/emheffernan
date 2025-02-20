@@ -3,7 +3,7 @@
 I'm a **cognitive psychologist** with a passion for understanding how we learn and make sense of the world. My PhD research explored how surprising information shapes learning and attention, combining **behavioral experiments, computational modelling, and neuroimaging analysis**. I'm currently looking at how font design impacts our ability to spot typos in digital text. 
 
 ### What You'll Find Here 🧠📊  
-💡 Some recent (and not-so-recent!) research projects
+💡 Some recent (and not-so-recent!) research projects  
 📊 Examples of data visualization & statistical modelling  
 🌱 The template I used to generate a custom resume using Rmarkdown
 
