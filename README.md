@@ -7,7 +7,7 @@ I'm a **cognitive psychologist** with a passion for understanding how we learn a
 📊 Examples of data visualization & statistical modeling  
 🌱 The template I used to generate a custom resume using Rmarkdown
 
-Feel free to check out my work or reach out—I'm always up for a good discussion about brains, data, and cool research! 😃  
+Feel free to check out my work or reach out—I'm always up for a good discussion about brains, data, and cool research!  
 
 <!--
 **emheffernan/emheffernan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
